@@ -62,9 +62,11 @@ Backend-ul
 ![](Aspose.Words.b40a9a35-8f36-429d-8480-61624fcdd3c0.004.png)
 
 Rutele:
+
 ![](Aspose.Words.b40a9a35-8f36-429d-8480-61624fcdd3c0.005.png)
 
 Funcționalități CRUD:
+
 ![](Aspose.Words.b40a9a35-8f36-429d-8480-61624fcdd3c0.006.png)
 
 ![](Aspose.Words.b40a9a35-8f36-429d-8480-61624fcdd3c0.007.png)
@@ -116,6 +118,7 @@ Pentru a porni aplicatia utlizam:
 **Capturi de ecran**
 
 **Pagina de Login:**
+
 ![](Aspose.Words.b40a9a35-8f36-429d-8480-61624fcdd3c0.013.png)
 
 User: admin
